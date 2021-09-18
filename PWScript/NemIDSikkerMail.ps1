@@ -1,0 +1,1 @@
+﻿"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --allow-file-access-from-files --no-sandbox --disk-cache-dir="c:\temp\ChromeCache" --user-data-dir=c:\temp\chromeDataDir

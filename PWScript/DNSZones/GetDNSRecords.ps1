@@ -1,0 +1,1 @@
+Get-DnsServerZone | Where-Object { $_.zonetype -eq "primary" } | Select-Object -Property ZoneName | export-csv -Path .\DNSZones.csv -Delimiter ";"
