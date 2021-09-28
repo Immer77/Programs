@@ -1,0 +1,4 @@
+FN;INIT;LN;UN;DN;PWD;EMAIL;TLF;MOBIL;OFFICE;JOB;DEP
+Peter;PBE;Immersen;PBE;Tristar.dk;PassW0rd!1;PBE@Tristar.DK;007;008;Thisted;Datatekniker;Tristar
+Rolf;ROOB;Øberg;ROOB;Tristar.dk;PassW0rd!1;ROOB@Tristar.DK;007;008;Thisted;Datatekniker;Tristar
+Daniel;DABA;Bahnsen;DABA;Tristar.dk;PassW0rd!1;DABA@Tristar.DK;007;008;Thisted;Datatekniker;Tristar

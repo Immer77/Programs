@@ -1,0 +1,11 @@
+RootOU,OU=Hosting,DC=praktikant,DC=local
+Customer,OU=K2,OU=Hosting,DC=praktikant,DC=local
+Security Group
+User
+Administration
+Salg
+VIP
+Service Account
+License
+Computere
+Servers

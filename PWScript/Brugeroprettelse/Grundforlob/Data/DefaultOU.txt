@@ -1,0 +1,12 @@
+RootOU;OU=Hosting,DC=Tristar,DC=local
+OU;Security Group
+OU;User
+OU;Administration
+OU;Salg
+OU;VIP
+OU;Service Account
+OU;License
+OU;Computere
+OU;Servers
+SG;XLIC-%Customer%-Office365;License
+SG;SG-%Customer%-AllUsers;Security Group
