@@ -62,6 +62,12 @@ tn.write(user + "\n")
 if password:
     tn.read_until("Password: ")
     tn.write(password + "\n")
+    
+#Konfiguration af Multiple VLANs og Switches
+for n in range (72,77):
+    print "Telnet to host" + str(n)
+    HOST = "192.168.122." + str(n)
+    tn = telnetlib.Telnet(HOST)
 
 
 tn.write("conf t\n")
