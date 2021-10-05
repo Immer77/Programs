@@ -70,13 +70,14 @@ for n in range (72,77):
     tn = telnetlib.Telnet(HOST)
 
 
-tn.write("conf t\n")
-for n in range (2,10): #2, 10 er mængden af Vlan du ønsker at lave
-    tn.write("vlan " + str(n) + "\n")
-    tn.write("name Switch_VLAN_"+str(n)+"\n")
+    tn.write("conf t\n")
+    for n in range (2,10): #2, 10 er mængden af Vlan du ønsker at lave
+        tn.write("vlan " + str(n) + "\n")
+        tn.write("name Switch_VLAN_"+str(n)+"\n")
 
-tn.write("end\n")
-tn.write("exit\n")
+    tn.write("end\n")
+    tn.write("wr\n")
+    tn.write("exit\n")
 
 print(tn.read_all())
 #/Switch VLAN-Configuration
