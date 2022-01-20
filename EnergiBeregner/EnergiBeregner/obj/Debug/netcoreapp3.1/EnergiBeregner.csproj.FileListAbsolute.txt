@@ -1,0 +1,13 @@
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\bin\Debug\netcoreapp3.1\EnergiBeregner.exe
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\bin\Debug\netcoreapp3.1\EnergiBeregner.deps.json
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\bin\Debug\netcoreapp3.1\EnergiBeregner.runtimeconfig.json
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\bin\Debug\netcoreapp3.1\EnergiBeregner.runtimeconfig.dev.json
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\bin\Debug\netcoreapp3.1\EnergiBeregner.dll
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\bin\Debug\netcoreapp3.1\EnergiBeregner.pdb
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\obj\Debug\netcoreapp3.1\EnergiBeregner.csprojAssemblyReference.cache
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\obj\Debug\netcoreapp3.1\EnergiBeregner.AssemblyInfoInputs.cache
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\obj\Debug\netcoreapp3.1\EnergiBeregner.AssemblyInfo.cs
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\obj\Debug\netcoreapp3.1\EnergiBeregner.csproj.CoreCompileInputs.cache
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\obj\Debug\netcoreapp3.1\EnergiBeregner.dll
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\obj\Debug\netcoreapp3.1\EnergiBeregner.pdb
+C:\Users\PEIM\source\repos\EnergiBeregner\EnergiBeregner\obj\Debug\netcoreapp3.1\EnergiBeregner.genruntimeconfig.cache
